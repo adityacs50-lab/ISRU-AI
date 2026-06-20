@@ -1,0 +1,4 @@
+# Empty parameters file for future use
+rover_controller:
+  ros__parameters:
+    speed: 0.5
