@@ -1,6 +1,0 @@
-obstacle_detector:
-  color_threshold:
-    lower: [0, 0, 10]
-    upper: [180, 255, 50]
-  min_obstacle_size: 50
-  min_distance: 0.5
